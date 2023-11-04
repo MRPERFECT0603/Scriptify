@@ -10,6 +10,11 @@ A simple, beginner-friendly shell application designed to assist students in get
 - Simplified command execution process for beginners
 - Intuitive learning experience for mastering shell scripting basics
 
+### Steps to Start
+1. Clone the repository.
+2. In the terminal, execute the following command: 
+   ```bash
+   g++ shell.cpp -o scriptify -lreadline
 
 ### Developer
 
@@ -17,5 +22,4 @@ A simple, beginner-friendly shell application designed to assist students in get
 > - *Institute*: Jaypee Institute of Information Technology (JIIT)
 > - *Enrollment Number*: 21803013
 > - *Batch*: B12
-
 
