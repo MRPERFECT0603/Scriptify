@@ -10,26 +10,12 @@ A simple, beginner-friendly shell application designed to assist students in get
 - Simplified command execution process for beginners
 - Intuitive learning experience for mastering shell scripting basics
 
-## Team Members
-### Developers
+
+### Developer
 
 > **Vivek Shaurya**
 > - *Institute*: Jaypee Institute of Information Technology (JIIT)
 > - *Enrollment Number*: 21803013
 > - *Batch*: B12
 
-> **Tanya Vashistha**
-> - *Institute*: Jaypee Institute of Information Technology (JIIT)
-> - *Enrollment Number*: 21803006
-> - *Batch*: B12
-
-> **Ansh Mishra**
-> - *Institute*: Jaypee Institute of Information Technology (JIIT)
-> - *Enrollment Number*: 21803011
-> - *Batch*: B12
-
-> **Madhura V. Jituri**
-> - *Institute*: Jaypee Institute of Information Technology (JIIT)
-> - *Enrollment Number*: 21803004
-> - *Batch*: B12
 
